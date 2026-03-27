@@ -9,6 +9,7 @@ A collection of Python scripts written from scratch to build practical programmi
 | Script | Description |
 |--------|-------------|
 | [Port Scanner](./PortScanner/port-scanner.py) | Scans a target IP for open ports within a specified range using raw sockets |
+| [IPv6 Ping](./Ping/pingipv6.py) | A Simple ping ipv6 done by scapy|
 
 ---
 
