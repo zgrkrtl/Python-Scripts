@@ -10,6 +10,10 @@ A collection of Python scripts written from scratch to build practical programmi
 |--------|-------------|
 | [Port Scanner](./PortScanner/port-scanner.py) | Scans a target IP for open ports within a specified range using raw sockets |
 | [IPv6 Ping](./Ping/pingipv6.py) | A Simple ping ipv6 done by scapy|
+| [ARP Scanner](./ARP/arp-scanner.py) | An ARP Scanner done by scapy|
+| [TCP Server](./Server-Client/tcp-server.py) | A Simple TCP-Server|
+| [TCP Client](./Server-Client/tcp-client.py) | A Simple TCP-Client|
+
 
 ---
 
