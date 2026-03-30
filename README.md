@@ -1,4 +1,4 @@
-# Python Scripts
+# Python Networking & Security Tools 
 
 A collection of Python scripts written from scratch to build practical programming skills in the context of cybersecurity and networking. No AI assistance used in writing the code.
 
